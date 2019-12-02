@@ -1,0 +1,29 @@
+    [
+    {"shop": "海底捞",
+    "picture": "",
+    "product": "嫩虾滑1",
+    "price": 30,
+    "ifCommented": true
+    },
+    {
+        "shop": "海底捞",
+        "picture": "",
+        "product": "嫩虾滑1",
+        "price": 30,
+        "ifCommented": false
+    },
+    {
+        "shop": "海底捞",
+        "picture": "",
+        "product": "嫩虾滑1",
+        "price": 30,
+        "ifCommented": false
+    },
+    {
+        "shop": "海底捞",
+        "picture": "",
+        "product": "嫩虾滑1",
+        "price": 30,
+        "ifCommented": false
+    }
+]
